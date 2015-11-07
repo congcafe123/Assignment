@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 		String a ;
 		String b ;
 		String c ;
+		String d ;
 	}
 
 	
